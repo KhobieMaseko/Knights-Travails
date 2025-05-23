@@ -31,5 +31,6 @@ You made it in 2 moves! Here's your path:
 [3, 3]
 ```
 
+Note: The picture is only to visualize the problem
 
 ![knights travails](https://github.com/user-attachments/assets/ecec6223-4e64-4683-b1f8-9ceb19db8c31)
