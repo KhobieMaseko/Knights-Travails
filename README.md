@@ -30,3 +30,6 @@ You made it in 2 moves! Here's your path:
 [1, 2]
 [3, 3]
 ```
+
+
+![knights travails](https://github.com/user-attachments/assets/ecec6223-4e64-4683-b1f8-9ceb19db8c31)
